@@ -1,0 +1,8 @@
+{
+  "name": "ionic-nfc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3c48b131"
+}
